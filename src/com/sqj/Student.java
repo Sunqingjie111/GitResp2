@@ -6,4 +6,6 @@ package com.sqj;
  * @Description: com.sqj
  */
 public class Student {
+    private int age;
+    private String name;
 }
